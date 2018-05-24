@@ -1,0 +1,7 @@
+.git
+dconfig
+build*
+devel
+cmake-build-debug
+.idea
+*.pyc

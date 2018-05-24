@@ -1,0 +1,30 @@
+.catkin_workspace
+.idea/
+cmake-build-*
+devel/
+build/
+
+# qcreator stuff
+*.workspace
+*.user
+*-build
+build*
+#*.qrc
+
+*~
+.#*
+*.png
+
+.ftpconfig
+.tags
+
+# vim stuff
+*.sw*
+*.autosave
+__pycache__
+*.pyc
+*log
+.sync/
+Icon?
+
+.DS_Store
